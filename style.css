@@ -1,9 +1,15 @@
+@media (max-width: 450px) {
+    .main{
+        flex-direction: column;
+    }
+};
+
 body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     /* background-image:url(bg1.jpg)  */
-    /* background-color: #e8ecef; */
+    background-color: #276ba0;
     max-width: 100%;
 }
 
